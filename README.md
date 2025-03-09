@@ -2,7 +2,7 @@
 
 - The user can view one of four images on the screen and move between them. All the image examples are available on public domain (ex: https://images.pexels.com/photos/4254553/pexels-photo-4254553.jpeg).
 
-- There are left and right arrows to navigate on the screen, and four buttons below them.
+- There are left and right arrows to navigate on the screen. The four buttons below them do the same.
 
 - Left and right arrows pointer to the previous and next image, respectively.
 
