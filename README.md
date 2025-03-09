@@ -1,6 +1,6 @@
 - This project shows a basic slider function using JavaScript, HTML and CSS.
 
-- The user can view one of four images (available on public domain) on the screen and move between them.
+- The user can view one of four images on the screen and move between them. All the image examples are available on public domain (ex: https://images.pexels.com/photos/4254553/pexels-photo-4254553.jpeg).
 
 - There are left and right arrows to navigate on the screen, and four buttons below them.
 
