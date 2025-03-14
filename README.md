@@ -1,4 +1,4 @@
-- This project shows a basic slider function using JavaScript, HTML and CSS.
+- This responsive web page project shows a basic slider function using JavaScript, HTML and CSS.
 
 - The user can view one of four images on the screen and move between them. All the image examples are available on public domain (ex: https://images.pexels.com/photos/4254553/pexels-photo-4254553.jpeg).
 
@@ -6,6 +6,8 @@
 
 - Left and right arrows pointer to the previous and next image, respectively.
 
-- When the user clicks on any arrow, it changes the image and also the buttons background color below the image. Current button background color is turned white and so the other buttons background colors are turned transparent.
+- When the user clicks on any arrow, it changes the image and also the buttons background color below the image. Current button background color is turned white and so the other buttons background colors are turned transparent;
 
-- When clicked, the arrow or button change the image with one second (1s) transition effect.
+- When clicked, the arrow or button change the image with one second transition effect;
+
+- The file "SliderProject.jpg" and "SliderProject2.jpg" show the final screen result to the end user.
