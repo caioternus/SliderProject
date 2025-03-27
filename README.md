@@ -10,4 +10,4 @@
 
 - When clicked, the arrow or button change the image with one second transition effect;
 
-- The file "SliderProject.jpg" and "SliderProject2.jpg" show the final screen result to the end user.
+- The files "SliderProject.jpg" and "SliderProject2.jpg" show the final screen result to the end user.
