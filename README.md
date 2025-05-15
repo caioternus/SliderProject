@@ -11,3 +11,7 @@
 - When clicked, the arrow or button change the image with one second transition effect;
 
 - The files "SliderProject.jpg" and "SliderProject2.jpg" show the final screen result to the end user.
+
+![SliderProject](https://github.com/user-attachments/assets/00670a57-fa15-4c09-98d4-c6588ddea714)
+
+![SliderProject2](https://github.com/user-attachments/assets/5ca87559-733a-45a1-921d-d5c2bc30e165)
